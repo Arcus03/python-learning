@@ -24,4 +24,14 @@ print("My name is", name)
 print("I am", age, "years old")
 print("My height is", height)
 print("Am I a student?", is_student)
+# Practice: personal learning information
 
+learning_topic = "Python and AI"
+start_date = "2026.5.11"
+daily_study_minutes = 30
+is_beginner = True
+
+print("Learning topic:", learning_topic)
+print("Start date:", start_date)
+print("Daily study minutes:", daily_study_minutes)
+print("Beginner:", is_beginner)
